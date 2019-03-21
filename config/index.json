@@ -1,0 +1,15 @@
+{
+  "session": {
+    "secret": "klop",
+    "key": "sessionkey",
+    "cookie": {
+      "path": "/",
+      "httpOnly": true,
+      "maxAge": 1800000
+    },
+    "saveUninitialized": false,
+    "resave": false
+  },
+  "dbURL": "mongodb+srv://andpop-user:klop@andpop-lrdsm.mongodb.net/loftsystem?retryWrites=true",
+  "secret": "asF345"
+}

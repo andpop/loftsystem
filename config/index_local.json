@@ -1,0 +1,15 @@
+{
+  "session": {
+    "secret": "klop",
+    "key": "sessionkey",
+    "cookie": {
+      "path": "/",
+      "httpOnly": true,
+      "maxAge": 1800000
+    },
+    "saveUninitialized": false,
+    "resave": false
+  },
+  "dbURL": "mongodb://localhost:27017/loftsystem",
+  "secret": "asF345"
+}
